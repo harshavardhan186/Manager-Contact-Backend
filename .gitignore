@@ -1,0 +1,5 @@
+/node_modules
+.env  
+# we are put those files in here which have to be ignored by the git version control 
+# as they are cpmpletely for development purpose
+
